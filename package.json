@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build:pdf": "resume export build/resume.pdf --theme onepage",
+    "build:html": "resume export build/resume.html --theme onepage",
+    "build:action": "resume export build/index.html --theme onepage"
+  },
+  "devDependencies": {
+    "resume-cli": "^3.0.4"
+  },
+  "dependencies": {
+    "jsonresume-theme-onepage": "^0.0.3"
+  }
+}

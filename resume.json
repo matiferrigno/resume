@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "lang": "es"
+  },
+  "basics": {
+    "name": "Matías Emanuel Ferrigno",
+    "label": "Licenciado en Sistemas",
+    "email": "",
+    "phone": "",
+    "url": "https://github.com/matiferrigno",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "matiferrigno",
+        "url": "https://www.linkedin.com/in/matiferrigno/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Devops / SysAdmin",
+      "startDate": "2020-01-31",
+      "summary": "Monotributista.\n\nTrabajo Remoto."
+    },
+    {
+      "company": "Facultad de Informática, Universidad Nacional de La Plata",
+      "position": "Ayudante Docente",
+      "startDate": "2017-02-28",
+      "summary": "Cátedras:\nRedes y Comunicaciones\nRedes y Comunicaciones (Redictado)",
+      "url": "https://info.unlp.edu.ar",
+      "location": "La Plata, Buenos Aires, Argentina."
+    },
+    {
+      "company": "Facultad de Informática, Universidad Nacional de La Plata",
+      "position": "Ayudante Interino",
+      "startDate": "2016-11-30",
+      "summary": "Cátedras:\n- Seguridad y Privacidad en Redes.\n- Seminario de Lenguajes (Opción Lenguaje C).\n",
+      "url": "https://info.unlp.edu.ar",
+      "location": "La Plata, Buenos Aires, Argentina."
+    },
+    {
+      "company": "Facultad de Informática, Universidad Nacional de La Plata",
+      "position": "Ayudante Adscripto",
+      "startDate": "2016-06-30",
+      "endDate": "2016-11-30",
+      "summary": "Cátedra:\nSeguridad y Privacidad en Redes",
+      "url": "https://info.unlp.edu.ar",
+      "location": "La Plata, Buenos Aires, Argentina."
+    },
+    {
+      "company": "Mikroways",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2018-04-30",
+      "endDate": "2019-11-30",
+      "url": "https://mikroways.net",
+      "location": "La Plata, Buenos Aires, Argentina"
+    },
+    {
+      "company": "CeSPI - Universidad Nacional de La Plata",
+      "position": "Administrador de Infraestructura y Redes",
+      "startDate": "2008-11-30",
+      "endDate": "2018-03-31",
+      "url": "https://cespi.unlp.edu.ar",
+      "location": "La Plata, Buenos Aires, Argentina."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de La Plata",
+      "studyType": "Analista Programador Universitario",
+      "startDate": "2007-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de La Plata",
+      "studyType": "Licenciatura en Sistemas",
+      "startDate": "2007-12-31",
+      "endDate": "2017-12-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Integrante del equipo SYPER en \"Ekoparty#13\" - 2° puesto",
+      "date": "2017-09-30"
+    },
+    {
+      "title": "Integrante del equipo CERTUNLP en \"International CyberEx 2016\" - 2° puesto",
+      "date": "2016-07-31"
+    },
+    {
+      "title": "Integrante del equipo CERTUNLP en \"International CyberEx 2015\" - 1° puesto",
+      "date": "2015-09-30"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "Español"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Inglés"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
