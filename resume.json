@@ -5,8 +5,8 @@
   "basics": {
     "name": "Matías Emanuel Ferrigno",
     "label": "Licenciado en Sistemas",
-    "email": "",
-    "phone": "",
+    "email": "meferrigno@gmail.com",
+    "phone": "+54 9 221 *******",
     "url": "https://github.com/matiferrigno",
     "profiles": [
       {
@@ -25,8 +25,8 @@
     },
     {
       "company": "Facultad de Informática, Universidad Nacional de La Plata",
-      "position": "Ayudante Docente",
-      "startDate": "2017-02-28",
+      "position": "Jefe de Trabajos Prácticos",
+      "startDate": "2022-03-01",
       "summary": "Cátedras:\nRedes y Comunicaciones\nRedes y Comunicaciones (Redictado)",
       "url": "https://info.unlp.edu.ar",
       "location": "La Plata, Buenos Aires, Argentina."
@@ -36,6 +36,15 @@
       "position": "Ayudante Interino",
       "startDate": "2016-11-30",
       "summary": "Cátedras:\n- Seguridad y Privacidad en Redes.\n- Seminario de Lenguajes (Opción Lenguaje C).\n",
+      "url": "https://info.unlp.edu.ar",
+      "location": "La Plata, Buenos Aires, Argentina."
+    },
+    {
+      "company": "Facultad de Informática, Universidad Nacional de La Plata",
+      "position": "Ayudante Docente",
+      "startDate": "2017-02-28",
+      "endDate": "2022-02-28",
+      "summary": "Cátedras:\nRedes y Comunicaciones\nRedes y Comunicaciones (Redictado)",
       "url": "https://info.unlp.edu.ar",
       "location": "La Plata, Buenos Aires, Argentina."
     },
@@ -79,7 +88,50 @@
       "studyType": "Licenciatura en Sistemas",
       "startDate": "2007-12-31",
       "endDate": "2017-12-31"
+    },
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de La Plata",
+      "studyType": "Especialización en Redes y Seguridad",
+      "startDate": "2007-12-31",
+      "endDate": ""
+    },
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de La Plata",
+      "studyType": "Maestría en Redes de Datos",
+      "startDate": "2007-12-31",
+      "endDate": ""
+    },
+    {
+      "institution": "Cursos",
+      "url": "",
+      "area": "",
+      "studyType": "Cursos de formación",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "Arquitectura interna de Linux - Docente: Dr. Juan Carlos Saez Alcaide",
+        "BAAC - Bitsense Avanced Asterisk course",
+        "BIAC - Bitsense initial Asterisk course",
+        "Cisco CCNA 1 v4.0 - Network Fundamentals",
+        "Cisco CCNA 2 v4.0 - Routing Protocols and Concepts",
+        "Cisco CCNA 3 v4.0 - LAN Switching and Wireless",
+        "Cisco CCNA 4 v4.0 - Accessing the WAN",
+        "CloudRobotics - Curso de Postgrado LIDI-INFO-UNLP",
+        "Conceptos Avanzados de Seguridad Informática - Lic. Javier Diaz, Lic. Paula Venosa y Lic. Nicolás Macia",
+        "Curso de IPv6 Básico - 5ta Edición del año 2016 - LACNIC",
+        "Introduction to Software Vulnerability Explotation - Core Security - Ekoparty",
+        "Pruebas unitarias y de integración para desarrollo - Instituto nacional de Tecnología Industrial (INTI)",
+        "Seminario de IPv6 - ARIU - Instructor: Jordi Palet Martínez",
+        "Seminario de formación docente incial para adscriptos y auxiliares docentes - Prof. Mg. Fernanda Barranquero",
+        "VMware vSphere: Optimize and Scale [V5.5]"
+      ]
     }
+
+  ],
+  "charlas": [
+    "Colaboración en la implementación de un piloto en el convenio ICANN-UNLP (Sept 2017)",
+    "Charla Desarrollando y desplegando aplicaciones Python con Docker en PyDay La Plata (Mayo 2018)",
+    "Capacitación en Asterisk y tecnologías VoIP (Nov 2015)"
   ],
   "awards": [
     {
